@@ -1,4 +1,7 @@
+# Tshipidi Bakery - Search Engine Crawling Rules
+
 User-agent: *
 Allow: /
 
-Sitemap: https://your-domain.co.za/sitemap.xml
+# Sitemap location
+Sitemap: https://fabulous-crostata-1bd944.netlify.app/sitemap.xml
